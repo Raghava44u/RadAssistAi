@@ -2,3 +2,9 @@ streamlit
 tensorflow
 numpy
 Pillow
+fpdf2
+google-generativeai
+transformers 
+torch 
+accelerate
+tf-keras
